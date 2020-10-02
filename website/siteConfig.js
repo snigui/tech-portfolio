@@ -16,7 +16,7 @@ const siteConfig = {
     tagline: 'complex conscious stardust',
     profilePhoto: 'img/cool.jpg',
     url: 'https://snigui.github.io', // Your website URL
-    baseUrl: '/portfolio/', // Base URL for your project */
+    baseUrl: '/tech-portfolio/', // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:
     //   url: 'https://facebook.github.io',
     //   baseUrl: '/test-site/',
