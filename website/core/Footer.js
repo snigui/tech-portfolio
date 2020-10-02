@@ -19,13 +19,13 @@ class Footer extends React.Component {
     return (
       <footer className="nav-footer" id="footer">
         <section className="social">
-          <a href={"https://www.linkedin.com/in/" + this.props.config.socialMedia.linkedin} target="_blank" className="social">
+          <a href={"https://www.linkedin.com/in/snigdha-motadaka-b127bb170/" target="_blank" className="social">
             <img alt="LinkedIn" src={this.props.config.baseUrl + "img/linkedin.svg"}></img>
           </a>
-          <a href={"https://deviantart.com/" + this.props.config.socialMedia.twitter} target="_blank" className="social">
+          <a href={"https://deviantart.com/snilett" target="_blank" className="social">
             <img alt="DeviantArt" src={this.props.config.baseUrl + "img/deviantart.svg"}></img>
           </a>
-          <a href={"https://github.com/" + this.props.config.socialMedia.github} target="_blank" className="social">
+          <a href={"https://github.com/snigui" target="_blank" className="social">
             <img alt="GitHub" src={this.props.config.baseUrl + "img/github.svg"}></img>
           </a>
         </section>
