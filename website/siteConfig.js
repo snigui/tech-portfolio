@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Snigdha Motadaka', // Title for your website.
-    tagline: 'We are all stardust',
+    tagline: 'complex conscious stardust',
     profilePhoto: 'img/cool.jpg',
     url: 'https://snigui.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
@@ -67,9 +67,9 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: '',
-        twitter: '',
-        github: '',
+        linkedin: 'https://www.linkedin.com/in/snigdha-motadaka-b127bb170/',
+        deviantArt: 'https://deviantart.com/snilett',
+        github: 'https://www.github.com/snigui',
     },
 
     // You may provide arbitrary config keys to be used as needed by your
