@@ -5,6 +5,6 @@ title: Projects
 
 Research data visualization:
 
-[links](https://github.com/snigui/materials)
+[UMAMI: Uncertainty Managed Access to Microstructures Interface](https://github.com/snigui/materials)
 
 ![art](./assets/art.png)
