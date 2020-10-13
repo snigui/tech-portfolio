@@ -7,7 +7,7 @@ title: About
 1. Undergraduate @ University at Buffalo
 1. I love math and art!
 
-!resume[/assets/!resume!.pdf]
+![resume](./assets/!resume!.pdf)
 
 <!---Write it in first (I) or third (Your Name Here) person.
 ## Current Role
