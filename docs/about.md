@@ -9,13 +9,4 @@ title: About
 
 ![resume](./assets/resume1.png)
 
-<!---Write it in first (I) or third (Your Name Here) person.
-## Current Role
-Grace Hopper Celebration Attendee
-## Recognition
-- 2020 Awesome Woman in Technology Award
-## Social Media
-- Twitter
-- LinkedIn
-- GitHub 
---->
+
