@@ -9,4 +9,4 @@ Research data visualization:
 
 Designed an automatic seatbelt for inclusive autonomous vehicles:
 
-![art](./assets/art.jpg)
+![seatbelt](./assets/seatbelt.gif)
